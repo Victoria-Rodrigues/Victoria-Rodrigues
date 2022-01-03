@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victoria-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
  ##
+  
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,14 +15,18 @@
   <img align="center" alt="Vic-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Vic-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
+
 ##
+
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vic-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Vic-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="Vic-WP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
+
 ##
+
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vic-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
