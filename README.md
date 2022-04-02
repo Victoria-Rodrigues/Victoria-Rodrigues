@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Victória 👋
 
-
-
 <div align="center">
   <a href="https://github.com/Victoria-Rodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Victoria-Rodrigues&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -32,3 +30,5 @@
   ![Snake animation](https://github.com/Victoria-Rodrigues/Victoria-Rodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
